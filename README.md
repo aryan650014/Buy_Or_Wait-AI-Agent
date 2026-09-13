@@ -255,4 +255,5 @@ These are the required deliverables. Participants are encouraged to improve retr
 
 > **AI-Powered Financial Decision Agent**
 
-[🚀 **Live Demo**]([https://buyorwait-ai-agent-h5ajevxtzjl2dacpugfiex.streamlit.app/]) | [💻 **GitHub Repository**](https://github.com/aryan650014/Buy_Or_Wait-AI-Agent)
+[🚀 **Live Demo**](https://buyorwait-ai-agent-h5ajevxtzjl2dacpugfiex.streamlit.app/)
+| [💻 **GitHub Repository**](https://github.com/aryan650014/Buy_Or_Wait-AI-Agent)
