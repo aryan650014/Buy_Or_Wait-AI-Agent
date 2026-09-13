@@ -249,3 +249,10 @@ The report must summarize the final full-dataset run that produced `output.csv`,
 Do not include API keys, credentials, or sensitive configuration values in the submission.
 
 These are the required deliverables. Participants are encouraged to improve retrieval, multimodal interpretation, financial-state reconstruction, plan generation, deterministic verification, batching, caching, and token efficiency.
+
+
+# 💰 Buy or Wait?
+
+> **AI-Powered Financial Decision Agent**
+
+[🚀 **Live Demo**]([https://buyorwait-ai-agent-h5ajevxtzjl2dacpugfiex.streamlit.app/](https://buyorwait-ai-agent-h5ajevxtzjl2dacpugfiex.streamlit.app/#buy-or-wait)) | [💻 **GitHub Repository**](https://github.com/aryan650014/Buy_Or_Wait-AI-Agent)
